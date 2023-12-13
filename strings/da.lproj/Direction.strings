@@ -1,0 +1,101 @@
+//------------------------------------------------------------------------------
+// MARK: Directions (Traveling with Cardinal Directions)
+//------------------------------------------------------------------------------
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.n" = "Rejser mod nord";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.ne" = "Rejser mod nordøst";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.e" = "Rejser mod øst";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.se" = "Rejser mod sydøst";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.s" = "Rejser mod syd";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.sw" = "Rejser mod sydvest";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.w" = "Rejser mod vest";
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street */
+"directions.traveling.nw" = "Rejser mod nordvest";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.n" = "Vender mod nord";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.ne" = "Vender mod nordøst";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.e" = "Vender mod øst";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.se" = "Vender mod sydøst";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.s" = "Vender mod syd";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.sw" = "Vender mod sydvest";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street */
+"directions.facing.w" = "Vender mod vest";
+
+
+
+/* Traveling in a vehicle such as a train, bus, car with a cardinal direction, %@ is a road name. Whenever the vehicle changes roads, the app will announce a location update by saying the direction the vehicle is travelling in and the name of the road e.g. Travelling east along High Street {NumberedPlaceholder="%@"} */
+"directions.along.traveling.nw" = "Traveling northwest along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.n" = "Facing north along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.ne" = "Facing northeast along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.e" = "Facing east along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.se" = "Facing southeast along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.s" = "Facing south along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.sw" = "Facing southwest along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.w" = "Facing west along %@";
+
+/* Facing a cardinal direction. If the user is not travelling in a vehicle, or not moving (e.g. on foot) but is stationary along a road somewhere, the application will know which way the user is facing e.g. Facing east along High Street, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.facing.nw" = "Facing northwest along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.n" = "Heading north along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.ne" = "Heading northeast along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.e" = "Heading east along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.se" = "Heading southeast along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.s" = "Heading south along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.sw" = "Heading southwest along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle, %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.w" = "Heading west along %@";
+
+/* Walking with a cardinal direction. If the user is walking and heading along a road in a specific direction then the app will know the direction of travel of the user along that road e.g. Heading east along High Street. This is different to when a user is moving in a vehicle., %@ is a road name {NumberedPlaceholder="%@"} */
+"directions.along.heading.nw" = "Heading northwest along %@";
